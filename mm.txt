@@ -1,0 +1,3 @@
+client_id = 882278016215-mgd1d8aj0a3h1n4sepre8sqd4f8bvceh.apps.googleusercontent.com
+client_secret =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
+refresh token = 1//04TRh_XjzupzbCgYIARAAGAQSNwF-L9IrYtfPMmnrsEpUhwAnWvL47C_yMRtGqC5qcR4LqH0Po5ygxqu_U1Eq8BPe2A6rxWhg9co
